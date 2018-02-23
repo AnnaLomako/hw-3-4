@@ -1,7 +1,7 @@
 # hw-3-4
 https://docs.google.com/forms/d/16NpIOqg6VugCkSUJbxwa0hdSXkC-qyzNdPMAseoJqGM/edit
 https://docs.google.com/spreadsheets/d/1LxHTlqJ_u_hOE7SDJFTf7e2jVLJtX-xM4myGNgFI9Lc/edit#gid=2054235379
-# Опрос по теме **реклама**
+# Опрос по теме *реклама*
 ## В данном опросе приняли участие 22 человека разных возрастов
 1. 72,7% - от 18 до 30 лет
 2. 13,6% - до 18  лет
